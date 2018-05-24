@@ -6,4 +6,8 @@
 
 kafeifoir
 
+<<<<<<< HEAD
 djfkfre 
+=======
+dev
+>>>>>>> dev
